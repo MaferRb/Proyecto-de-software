@@ -3,14 +3,14 @@ Aplicación web Movie Rental
 ##### Título del proyecto: 
 Desarrollo de una aplicación web para la gestión de los préstamos de una tienda de alquiler de películas.
 
-
+### Ver documento completo en la carpeta planeación
 
 <!-- Sección María Fernanda Rivas Barrera -->
 ### Descripción del proyecto.
 > — María Fernanda Rivas Barrera
 ![img-descripcion_proyecto](https://github.com/MaferRb/Proyecto-de-software/blob/main/assets/img/descripcion_proyecto.png?raw=true)
 
-![img-descripcion2_proyecto](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/descripcion2_proyecto.png)
+
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
