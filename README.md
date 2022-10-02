@@ -42,25 +42,25 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 > — María Fernanda Rivas Barrera
 
 ### Técnica Usada
-![img-gestion_proyectos]()
+![img-gestion_proyectos](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/gestion_proyectos.png)
 
 
 ### Tabla 1. Estimación de recursos
 
-![img-recursos]()
+![img-recursos](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/recursos.png)
 
 ### Tabla 2. Estimación de costes
-![img-costes]()
+![img-costes](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/costes.png)
 
 
 ### Tabla 3. Planeación temporal cronograma y diagrama de Gantt del proyecto
-![img-gantt]()
+![img-gantt](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/gantt.png)
 
 ### Estructura de desglose de riesgos del proyecto (diagrama RBS)
-![img-rbs]()
+![img-rbs](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/rbs.png)
 
 ### Tabla 4. Matriz de riesgos del proyecto
-![img-matriz]()
+![img-matriz](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/matriz.png)
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
