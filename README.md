@@ -31,11 +31,42 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 
 
 <!-- Sección María Fernanda Rivas Barrera -->
+----------------------------------------------------------------------------------------------------------
 
- 
+
+##### Actividad 2 - Construir en el documento la planeación del proyecto.
+
+ <!-- Sección María Fernanda Rivas Barrera -->
+
+
+> — María Fernanda Rivas Barrera
+
+### Técnica Usada
+![img-gestion_proyectos]()
+
+
+### Tabla 1. Estimación de recursos
+
+![img-recursos]()
+
+### Tabla 2. Estimación de costes
+![img-costes]()
+
+
+### Tabla 3. Planeación temporal cronograma y diagrama de Gantt del proyecto
+![img-gantt]()
+
+### Estructura de desglose de riesgos del proyecto (diagrama RBS)
+![img-rbs]()
+
+### Tabla 4. Matriz de riesgos del proyecto
+![img-matriz]()
+
+<!-- Sección María Fernanda Rivas Barrera -->
+
 <!-- Sección general footer -->
 ###### *Integrantes: María Fernanda Rivas Barrera*
-###### *Referencias:Canva. (s.f.). Estructura de desglose del trabajo de desarrollo de aplicaciones EDT. elaborado en https://www.canva.com/design/DAFNk6Mpd5c/5_ucaqg8qW0idB75TFnhhg/edit?utm_content=DAFNk6Mpd5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton - Github. (s.f.). Github. Obtenido de https://github.com/ - Gómez Ruedas, J. (2014). Dirección y gestón de proyectos de Tecnologías de la información. Madrid: FUNDACIÓN CONFEMETAL. Obtenido de https://elibro.net/es/ereader/biblioibero/114078?page=1. Consultado en: 28 Sep 2022*
+###### *Referencias:Canva. (s.f.). Estructura de desglose del trabajo de desarrollo de aplicaciones EDT. elaborado en https://www.canva.com/design/DAFNk6Mpd5c/5_ucaqg8qW0idB75TFnhhg/edit?utm_content=DAFNk6Mpd5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton - Github. (s.f.). Github. Obtenido de https://github.com/ - Gómez Ruedas, J. (2014). Dirección y gestón de proyectos de Tecnologías de la información. Madrid: FUNDACIÓN CONFEMETAL. Obtenido de https://elibro.net/es/ereader/biblioibero/114078?page=1. Consultado en: 28 Sep 2022 - Campo Arranz, R., Dóminguez, M. d., & Rodrigo Raya, V. (2014). Gestón de Proyectos. Madrid: RAMA. Obtenido de https://elibro.net/es/ereader/biblioibero/105623?page=106*
 
 
 <!-- Sección general footer -->
