@@ -66,22 +66,22 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 
 ### Historias de usuario
 ### HU01
-![img-HU01](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/recursos.png)
+![img-HU01](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU01.png)
 
 ### HU02
-![img-HU02](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/costes.png)
+![img-HU02](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU02.png)
 
 ### HU03
-![img-HU03](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/gantt.png)
+![img-HU03](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU03.png)
 
 ### HU04
-![img-HU04](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/rbs.png)
+![img-HU04](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU04.png)
 
 ### HU05
-![img-HU05](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/matriz.png)
+![img-HU05](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU05.png)
 
 ### HU06
-![img-HU06](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/matriz.png)
+![img-HU06](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU06.png)
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
