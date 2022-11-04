@@ -64,6 +64,27 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
+### Historias de usuario
+### HU01
+![img-HU01](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/recursos.png)
+
+### HU02
+![img-HU02](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/costes.png)
+
+### HU03
+![img-HU03](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/gantt.png)
+
+### HU04
+![img-HU04](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/rbs.png)
+
+### HU05
+![img-HU05](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/matriz.png)
+
+### HU06
+![img-HU06](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/matriz.png)
+
+<!-- Sección María Fernanda Rivas Barrera -->
+
 <!-- Sección general footer -->
 ###### *Integrantes: María Fernanda Rivas Barrera*
 ###### *Referencias:Canva. (s.f.). Estructura de desglose del trabajo de desarrollo de aplicaciones EDT. elaborado en https://www.canva.com/design/DAFNk6Mpd5c/5_ucaqg8qW0idB75TFnhhg/edit?utm_content=DAFNk6Mpd5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton - Github. (s.f.). Github. Obtenido de https://github.com/ - Gómez Ruedas, J. (2014). Dirección y gestón de proyectos de Tecnologías de la información. Madrid: FUNDACIÓN CONFEMETAL. Obtenido de https://elibro.net/es/ereader/biblioibero/114078?page=1. Consultado en: 28 Sep 2022 - Campo Arranz, R., Dóminguez, M. d., & Rodrigo Raya, V. (2014). Gestón de Proyectos. Madrid: RAMA. Obtenido de https://elibro.net/es/ereader/biblioibero/105623?page=106*
