@@ -91,8 +91,8 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 > — María Fernanda Rivas Barrera
 
 
-![img-video](https://user-images.githubusercontent.com/43456634/161363620-4ff007db-4d1f-4a2e-8838-54e143bc3095.png)
-[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/personal/mrivasba_ibero_edu_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmrivasba%5Fibero%5Fedu%5Fco%2FDocuments%2FCapa%201%20%2D%20Mar%C3%ADa%20Rivas%2Emp4&parent=%2Fpersonal%2Fmrivasba%5Fibero%5Fedu%5Fco%2FDocuments)
+![img-video](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/video.jpg)
+[*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/ERPl4yndJ7RLr60rQu3lbPwBDz7BPSHj2GVhRtLTpIQzxA?e=ih3Yz3)
 <!-- Sección María Fernanda Rivas Barrera -->
 
 <!-- Sección general footer -->
