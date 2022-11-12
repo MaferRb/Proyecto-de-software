@@ -3,65 +3,6 @@ Aplicación web Movie Rental
 ##### Título del proyecto: 
 Desarrollo de una aplicación web para la gestión de los préstamos de una tienda de alquiler de películas.
 
-### Ver documento completo en la carpeta planeación
-
-<!-- Sección María Fernanda Rivas Barrera -->
-### Descripción del proyecto.
-> — María Fernanda Rivas Barrera
-![img-descripcion_proyecto](https://github.com/MaferRb/Proyecto-de-software/blob/main/assets/img/descripcion_proyecto.png?raw=true)
-
-
-
-<!-- Sección María Fernanda Rivas Barrera -->
-
-
-<!-- Sección María Fernanda Rivas Barrera -->
-### El alcance del proyecto
-
-> — María Fernanda Rivas Barrera
-![img-alcance](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/alcance.png)
-
-
-### Objetivos del proyecto:
-
-![img-objetivos](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/objetivos.png)
-
-### Estructura de desglose de actividades del trabajo (EDT)
-![img-edt](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/edt.png)
-
-
-<!-- Sección María Fernanda Rivas Barrera -->
-----------------------------------------------------------------------------------------------------------
-
-
-##### Actividad 2 - Construir en el documento la planeación del proyecto.
-
- <!-- Sección María Fernanda Rivas Barrera -->
-
-
-> — María Fernanda Rivas Barrera
-
-### Técnica Usada
-![img-gestion_proyectos](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/gestion_proyectos.png)
-
-
-### Tabla 1. Estimación de recursos
-
-![img-recursos](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/recursos.png)
-
-### Tabla 2. Estimación de costes
-![img-costes](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/costes.png)
-
-
-### Tabla 3. Planeación temporal cronograma y diagrama de Gantt del proyecto
-![img-gantt](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/gantt.png)
-
-### Estructura de desglose de riesgos del proyecto (diagrama RBS)
-![img-rbs](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/rbs.png)
-
-### Tabla 4. Matriz de riesgos del proyecto
-![img-matriz](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/matriz.png)
-
 <!-- Sección María Fernanda Rivas Barrera -->
 
 ### Historias de usuario
@@ -93,6 +34,69 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 
 ![img-video](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/video.jpg)
 [*Clic aquí para ver video*](https://laiberocol-my.sharepoint.com/:v:/g/personal/mrivasba_ibero_edu_co/ERPl4yndJ7RLr60rQu3lbPwBDz7BPSHj2GVhRtLTpIQzxA?e=ih3Yz3)
+<!-- Sección María Fernanda Rivas Barrera -->
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+##### Actividad 2 - Construir en el documento la planeación del proyecto.
+
+ <!-- Sección María Fernanda Rivas Barrera -->
+
+
+> — María Fernanda Rivas Barrera
+
+### Técnica Usada
+![img-gestion_proyectos](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/gestion_proyectos.png)
+
+
+### Tabla 1. Estimación de recursos
+
+![img-recursos](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/recursos.png)
+
+### Tabla 2. Estimación de costes
+![img-costes](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/costes.png)
+
+
+### Tabla 3. Planeación temporal cronograma y diagrama de Gantt del proyecto
+![img-gantt](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/gantt.png)
+
+### Estructura de desglose de riesgos del proyecto (diagrama RBS)
+![img-rbs](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/rbs.png)
+
+### Tabla 4. Matriz de riesgos del proyecto
+![img-matriz](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/matriz.png)
+
+----------------------------------------------------------------------------------------------------------
+
+### Ver documento completo en la carpeta planeación
+
+<!-- Sección María Fernanda Rivas Barrera -->
+### Descripción del proyecto.
+> — María Fernanda Rivas Barrera
+![img-descripcion_proyecto](https://github.com/MaferRb/Proyecto-de-software/blob/main/assets/img/descripcion_proyecto.png?raw=true)
+
+
+
+<!-- Sección María Fernanda Rivas Barrera -->
+
+
+<!-- Sección María Fernanda Rivas Barrera -->
+### El alcance del proyecto
+
+> — María Fernanda Rivas Barrera
+![img-alcance](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/alcance.png)
+
+
+### Objetivos del proyecto:
+
+![img-objetivos](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/objetivos.png)
+
+### Estructura de desglose de actividades del trabajo (EDT)
+![img-edt](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/edt.png)
+
+
 <!-- Sección María Fernanda Rivas Barrera -->
 
 <!-- Sección general footer -->
