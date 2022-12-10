@@ -4,7 +4,7 @@ Aplicación web Movie Rental
 Desarrollo de una aplicación web para la gestión de los préstamos de una tienda de alquiler de películas.
 
 <!-- Sección María Fernanda Rivas Barrera -->
-> — María Fernanda Rivas Barrera
+
 ### Actividad 5 - Manejo de ramas en el repositorio - Pruebas
 
 ### Para realizar la prueba de unos de los servlets de la aplicación MovieRental se instaló Postman 
@@ -47,6 +47,9 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 ![img-11](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU06.png)
 
 <!-- Sección María Fernanda Rivas Barrera -->
+
+
+
 
 <!-- Sección María Fernanda Rivas Barrera -->
 
