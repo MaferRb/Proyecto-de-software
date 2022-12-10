@@ -30,7 +30,7 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 ![img-5](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/5.png)
 
 ### Haciendo uso del comando git status –s se puede ver que el sistema ya reconoce los archivos aunque aún no hacen parte del proyecto.
-![img-6]https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/6.png)
+![img-6](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/6.png)
 
 ### Hacemos un primer commit, empleando el comando git commit –m.
 ![img-7](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/7.png)
