@@ -4,6 +4,51 @@ Aplicación web Movie Rental
 Desarrollo de una aplicación web para la gestión de los préstamos de una tienda de alquiler de películas.
 
 <!-- Sección María Fernanda Rivas Barrera -->
+> — María Fernanda Rivas Barrera
+### Actividad 5 - Manejo de ramas en el repositorio - Pruebas
+
+### Para realizar la prueba de unos de los servlets de la aplicación MovieRental se instaló Postman 
+![img-1](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU01.png)
+
+### Compilamos el servlet
+![img-2](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU02.png)
+
+### En el Get vamos a colocar la URL de cuando se compilo el servlet
+![img-3](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU03.png)
+
+### Ingresamos la URL en Postman, al ejecutar, en la línea 10 se muestra que él id fue recibido, de manera que se puede probar que el servlet si funciona 
+![img-4](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU04.png)
+
+<!-- Sección María Fernanda Rivas Barrera -->
+
+----------------------------------------------------------------------------------------------------------
+<!-- Sección María Fernanda Rivas Barrera -->
+### Actividad 6 - Manejo de commits al repositorio
+
+### Inicializamos el repositorio en el directorio, empleando el comando git init.
+![img-5](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU05.png)
+
+### Haciendo uso del comando git status –s se puede ver que el sistema ya reconoce los archivos aunque aún no hacen parte del proyecto.
+![img-6](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU06.png)
+
+### Hacemos un primer commit, empleando el comando git commit –m.
+![img-7](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU06.png)
+
+### Empleamos el comando git add para agregar todos los archivos que están en el directorio.
+![img-8](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU06.png)
+
+### Al hacer un git status pues ya podemos verificar que se han agregado y aparecen con una A.
+![img-9](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU06.png)
+
+### Haciendo uso del comando git status –s se puede ver que el sistema ya reconoce los archivos aunque aún no hacen parte del proyecto.
+![img-10](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU06.png)
+
+### Para terminar de enviar la información empleamos el comando git push
+![img-11](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/HU06.png)
+
+<!-- Sección María Fernanda Rivas Barrera -->
+
+<!-- Sección María Fernanda Rivas Barrera -->
 
 ### Historias de usuario
 ### HU01
