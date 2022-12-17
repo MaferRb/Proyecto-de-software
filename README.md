@@ -6,9 +6,9 @@ Desarrollo de una aplicación web para la gestión de los préstamos de una tien
 <!-- Sección María Fernanda Rivas Barrera -->
 > — María Fernanda Rivas Barrera
 
-### Actividad 5 - Manejo de ramas en el repositorio - Pruebas
+### Actividad 5 - Manejo de ramas en el repositorio - Proyecto final - Pruebas
 
-### Para realizar la prueba de unos de los servlets de la aplicación MovieRental se instaló Postman 
+### Para realizar la pruebas del proyecto se instaló Postman 
 ![img-1](https://raw.githubusercontent.com/MaferRb/Proyecto-de-software/main/assets/img/1.png)
 
 ### Compilamos el servlet
